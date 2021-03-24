@@ -1,2 +1,2 @@
 # to_do_list
-to do list build with JavaScript
+todo list build with JavaScript
